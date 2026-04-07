@@ -4,8 +4,21 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Learner;Machine+Learning+Explorer;Open+Source+Contributor&center=true&width=500&height=50">
 </p>
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nadeem_.mallick) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nadeemmallick069@gmail.com) 
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.instagram.com/nadeem_.mallick" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nadeem-mallick-335667267" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:nadeemmallick069@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+</p>
 
 # 💻 Tech Stack:
 ### 👨‍💻 Languages
