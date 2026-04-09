@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nadeem</h1>
+<h1 align="center">Hi 👋, I'm Nadeem Mallick</h1>
 <h3 align="center">🚀 IT Student | Developer | ML Enthusiast</h3>
 
 <p align="center">
