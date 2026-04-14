@@ -1,11 +1,11 @@
-<h1 align="center">Hii 👋, I'm Nadeem Mallick</h1>
-<h3 align="center">🚀 IT  Student | Developer | ML Enthusiast</h3>
+<h1 align="center">Hii👋,I'm Nadeem Mallick</h1>
+<h3 align="center">🚀 IT Student | Developer | ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Learner;Machine+Learning+Explorer;Open+Source+Contributor&center=true&width=500&height=50">
 </p>
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me.
 <p align="center">
   <a href="https://www.instagram.com/nadeem_.mallick" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
