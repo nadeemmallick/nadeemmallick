@@ -40,21 +40,34 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=python&logoColor=white)
+
 ## 📊 GitHub Analytics
 
+<div align="center">
+  
+### 📈 Overall Stats
+<img src="https://github-readme-stats.vercel.app/api?username=nadeemmallick&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&ring_color=58a6ff&line_height=24" height="180" alt="GitHub Stats"/>
+
+### 🔥 Streak Statistics
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nadeemmallick&theme=dark&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideNums=58a6ff&dates=c9d1d9&border=30363d" height="180" alt="GitHub Streak"/>
+
+### 💻 Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeemmallick&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" height="180" alt="Top Languages"/>
+
+### 📊 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nadeemmallick&theme=github&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff&area_color=1f6feb&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+
+### 📌 Repository Stats
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nadeemmallick&theme=github_dark&border_color=30363d" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nadeemmallick&theme=github_dark&border_color=30363d" alt="Most Commit Language"/>
+
+### 🎯 Profile Summary
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadeemmallick&theme=github_dark&border_color=30363d" alt="Profile Details" width="100%"/>
+
+</div>
+
+---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadeemmallick&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff" height="170"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadeemmallick&theme=tokyonight&hide_border=true&background=0d1117&ring=00ffff&fire=00ffff&currStreakLabel=00ffff" height="170"/>
+  <i>💡 Always learning, always growing. Let's collaborate and build something amazing!</i>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeemmallick&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadeemmallick&theme=tokyo-night&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&hide_border=true"/>
-</p>
-
-
