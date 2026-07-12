@@ -45,6 +45,39 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ---
+
+## 📊 Featured Projects
+
+### GitHub Analytics Tool
+A comprehensive Python-based tool for tracking and analyzing GitHub repository metrics. This tool provides insights into repository activity, contributor statistics, and project health over time.
+
+**Features:**
+- 📈 Repository statistics (stars, forks, watchers, open issues)
+- 📝 Commit tracking and analysis
+- 🔀 Pull request metrics
+- 🐛 Issue tracking and metrics
+- 👥 Top contributors analysis
+- 📋 Comprehensive analytics report generation
+
+**Location:** [`analytics/github-analytics.py`](https://github.com/nadeemmallick/nadeemmallick/blob/main/analytics/github-analytics.py)
+
+**Usage:**
+```bash
+import os
+from analytics.github_analytics import GitHubAnalytics
+
+# Set your GitHub token
+os.environ["GITHUB_TOKEN"] = "your_token_here"
+
+# Initialize analytics
+analytics = GitHubAnalytics(token="your_token", owner="user", repo="repo")
+
+# Generate report
+report = analytics.generate_report(days=30)
+analytics.save_report("report.json")
+```
+
+---
 <p align="center">
   <i>💡 Always learning, always growing. Let's collaborate and build something amazing!</i>
 </p>
