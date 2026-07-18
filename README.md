@@ -26,6 +26,11 @@
 - 🤖 Exploring AI/ML  
 - 🚀 Goal: Software Engineer
 
+## 🔥 Streak Score
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadeemmallick&theme=minimalist" alt="GitHub Streak" />
+</p>
+
 # 💻 Tech Stack
 ### 👨‍💻 Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
