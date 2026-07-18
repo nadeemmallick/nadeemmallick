@@ -28,7 +28,7 @@
 
 ## 🔥 Streak Score
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadeemmallick&theme=minimalist" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadeemmallick&theme=dark&border=white&background=000000" alt="GitHub Streak" />
 </p>
 
 # 💻 Tech Stack
